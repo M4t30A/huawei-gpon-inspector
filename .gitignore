@@ -1,0 +1,22 @@
+# Logs, dumps and exports
+dumps/
+*.html
+*.json
+*.cfg
+*.xml
+.gpon_session_cookies.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.env
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
